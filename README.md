@@ -1,6 +1,4 @@
-**++++++++++++++++++++++++++++++++++
-Steps and dependencies
-++++++++++++++++++++++++++++++++++**
+**Steps and dependencies**
 
 `1. enable speech to text api on GCP`
 
@@ -15,4 +13,3 @@ Steps and dependencies
 `6. npm i`
 
 `7. gcloud auth application-default set-quota-project YOUR_PROJECT_ID`
-
